@@ -12,3 +12,16 @@ For any of the queen to be under attack, the following conditions must be satisf
 
 N.B: These all happens in a 4 x 4 Chess board. 
 
+so in a 4 x 4 chess board, what are the ways in which the queens can be placed? 
+
+They can be placed in 16C4 ways 
+    1   2    3      4
+ ______________________
+|     |    |    |      |    1  
+|_____|____|____|______|
+|     |    |    |      |
+|_____|____|____|______|    2
+|     |    |    |      |
+|_____|____|____|______|    3
+|     |    |    |      |
+|_____|____|____|______|    4
